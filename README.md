@@ -16,5 +16,5 @@ Bunoyo LLC Prides itself in being as simple, and supportive as possible. Our com
 ## Contributing
 We love additions to our code, but due to the nature of our programs, we need to keep everything wrapped up. We'd love to hear your ideas for new products, additions, and more. Just get to us soon, since we'll probably add it!
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## TOS | License
+[TOS](https://bunoyo.tech/tos)
