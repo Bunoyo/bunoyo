@@ -7,7 +7,7 @@ Bunoyo LLC is a cloud based Student Readiness & Cloud Enterprise Consultant. We'
 
 ## Management | Installation
 
-Use our direct Github Repository for updates to any of our [products](https://pip.pypa.io/en/stable/).
+Use our direct Github Repository for updates to any of our [products](https://bunoyo.tech).
 
 ## Usage
 
