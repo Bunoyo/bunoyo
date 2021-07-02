@@ -3,11 +3,11 @@
 
 # Bunoyo LLC
 
-Bunoyo LLC is a cloud based Student Readiness & Cloud Enterprise Consultant. We're glad to help anyone and everyone that needs something.
+Bunoyo LLC is an online based Pentesting Firm & Cloud Enterprise Consultant. We're glad to help anyone and everyone that needs something.
 
 ## Management | Installation
 
-Use our direct Github Repository for updates to any of our [products](https://bunoyo.tech).
+Use our direct Github Repository for updates to any of our [products](https://bunoyo.com).
 
 ## Usage
 
@@ -17,4 +17,4 @@ Bunoyo LLC Prides itself in being as simple, and supportive as possible. Our com
 We love additions to our code, but due to the nature of our programs, we need to keep everything wrapped up. We'd love to hear your ideas for new products, additions, and more. Just get to us soon, since we'll probably add it!
 
 ## TOS | License
-[TOS](https://bunoyo.tech/tos)
+[TOS](https://bunoyo.com/tos)
